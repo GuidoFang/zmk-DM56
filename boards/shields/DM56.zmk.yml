@@ -1,0 +1,11 @@
+file_format: "1"
+id: DM56
+name: DM56
+type: shield
+url: https://github.com/GuidoFang/zmk-DM56/
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - DM56_left
+  - DM56_right
